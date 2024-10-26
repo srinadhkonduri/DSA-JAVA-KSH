@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA-JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA-JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter10-patterns-part1/chapter10-patterns-part1.iml" filepath="$PROJECT_DIR$/chapter10-patterns-part1/chapter10-patterns-part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-operators/chapter5-operators.iml" filepath="$PROJECT_DIR$/chapter5-operators/chapter5-operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter6-variables/chapter6-variables.iml" filepath="$PROJECT_DIR$/chapter6-variables/chapter6-variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter8-conditional-statements/chapter8-conditional-statements.iml" filepath="$PROJECT_DIR$/chapter8-conditional-statements/chapter8-conditional-statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter9-loops/chapter9-loops.iml" filepath="$PROJECT_DIR$/chapter9-loops/chapter9-loops.iml" />
